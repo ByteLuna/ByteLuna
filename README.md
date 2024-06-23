@@ -1,0 +1,6 @@
+- 👋 Haii, I’m @ByteLuna
+- 👀 I’m interested in Python, Reverse engineering, web automation and much more
+- 🌱 I’m currently learning Python
+- 📫 You can reach me through discord at @ByteLuna
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm silly :3 
